@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/oddmodedesign.github.io/static/css/main.ff02f4b5.css",
-    "main.js": "/oddmodedesign.github.io/static/js/main.6e49a8ee.js",
+    "main.js": "/oddmodedesign.github.io/static/js/main.a657b85c.js",
     "static/js/453.96e58af6.chunk.js": "/oddmodedesign.github.io/static/js/453.96e58af6.chunk.js",
     "index.html": "/oddmodedesign.github.io/index.html",
     "main.ff02f4b5.css.map": "/oddmodedesign.github.io/static/css/main.ff02f4b5.css.map",
-    "main.6e49a8ee.js.map": "/oddmodedesign.github.io/static/js/main.6e49a8ee.js.map",
+    "main.a657b85c.js.map": "/oddmodedesign.github.io/static/js/main.a657b85c.js.map",
     "453.96e58af6.chunk.js.map": "/oddmodedesign.github.io/static/js/453.96e58af6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.6e49a8ee.js"
+    "static/js/main.a657b85c.js"
   ]
 }
